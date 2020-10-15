@@ -5,4 +5,4 @@ API from https://open5e.com/
 background image from https://www.wallpaperflare.com/search?wallpaper=tavern  
 nav item signs from  http://apps.pathstoadventure.com/Tavern-Sign-Crafter/craft.asp  
 dragon icon from https://icons8.com/icons/set/dragon  
-all other logos(classymbols) from  the offical DnD Fan site Kit  
+all other logos(class symbols) from  the offical DnD Fan site Kit  
