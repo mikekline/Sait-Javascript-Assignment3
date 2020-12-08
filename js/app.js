@@ -57,3 +57,17 @@ document.querySelector('#bard').addEventListener("click", () => callApi("bard"))
 document.querySelector('#ranger').addEventListener("click", () => callApi("ranger"))
 document.querySelector('#rogue').addEventListener("click", () => callApi("rogue"))
 document.querySelector('#wizard').addEventListener("click", () => callApi("wizard"))
+
+
+//to display and hide menu on moble
+function menu() {
+  const x = document.querySelectorAll('.classSelect');
+
+  for (i=0; i < x.length; i++){
+    if (!(x[i].style.display === "block")) {
+      x[i].style.display = "block";
+    } else {
+      x[i].style.display = "none";
+    }
+  }
+}
